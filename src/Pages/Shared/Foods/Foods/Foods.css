@@ -1,0 +1,11 @@
+
+ .navber{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+nav a{
+    text-decoration: none;
+    margin:30px;
+    font-weight: bold;
+}
